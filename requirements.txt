@@ -1,0 +1,8 @@
+mlflow
+dvc[all]
+pandas
+scikit-learn
+seaborn
+matplotlib
+joblib
+dagshub
